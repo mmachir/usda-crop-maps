@@ -1,0 +1,8 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Admin
+accts.csv
+
+# Reference
+usda_nass_ag_production.R
